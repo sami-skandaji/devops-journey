@@ -4,4 +4,4 @@ Journal de ma transition de développeur à DevOps, sur 12 semaines à partir d'
 
 ## Progression
 - [x] Bloc 1 : Linux, permissions, processus, systemd, Nginx
-- [ ] Projet 1 : monitoring en Bash
+- [x] Projet 1 : monitoring en Bash
